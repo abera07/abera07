@@ -1,6 +1,6 @@
 ### Just a glitch in the matrix :v:
 
-![Among Us](https://media.giphy.com/media/z3ZzHIN66i7X6KAbxh/giphy.gifhttps://giphy.com/gifs/z3ZzHIN66i7X6KAbxh/html5)
+![Among Us](https://giphy.com/gifs/z3ZzHIN66i7X6KAbxh/html5)
 
 - 🔭 I’m currently working on Sentimental Analysis, at Careerchela in association with MSAC, KIIT 
 - 🌱 I’m currently learning Deep Learning and NLP
