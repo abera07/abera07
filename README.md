@@ -1,9 +1,9 @@
 ### Just a glitch in the matrix :v:
 
-![Among_Us](decode-the-data.gif)
+![Chrome_Dino](chrome_dino.gif)
 
-- 🔭 I’m currently working on Sentimental Analysis, at Careerchela in association with MSAC, KIIT 
-- 🌱 I’m currently learning Deep Learning and NLP
+- 🔭 I’m currently working on an AI-Enabled FinTech B2B Invoice Management application, in association with the Tech Track Winter Internship of HighRadius Technologies.
+- 🌱 I’m currently learning Deep Learning and NLP.
 - 📫  LinkedIn: https://www.linkedin.com/in/ankita-bera-910442182/
 - :e-mail: Mail: uchiha.ryo.1000@gmail.com
 
