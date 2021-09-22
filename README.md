@@ -1,6 +1,6 @@
 ### Just a glitch in the matrix :v:
 
-![Ankita_kor](https://www.canva.com/design/DAEqv26Lwt0/X-glzQksGcxBnOL-4CmooQ/watch?utm_content=DAEqv26Lwt0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink )
+![Ankita_kor](https://drive.google.com/file/d/1V9_MIxyS350SPxnbnzAuebZG7WtuJuht/view?usp=sharing)
 
 ![Chrome_Dino](chrome_dino.gif)
 
