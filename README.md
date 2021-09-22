@@ -1,4 +1,4 @@
-### Just a glitch in the matrix :v:
+## Just a glitch in the matrix :v:
 
 ![Chrome_Dino](chrome_dino.gif)
 
