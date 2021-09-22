@@ -1,7 +1,5 @@
 ### Just a glitch in the matrix :v:
 
-![Ankita_kor](https://github.com/abera07/abera07/blob/main/AB_temp_logo.gif?raw=true)
-
 ![Chrome_Dino](chrome_dino.gif)
 
 - 🔭 I’m currently working on a research paper and my own small projects!
