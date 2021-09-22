@@ -7,6 +7,9 @@
 - 📫  LinkedIn: https://www.linkedin.com/in/ankita-bera-910442182/
 - :e-mail: Mail: uchiha.ryo.1000@gmail.com
 
+
+
+[![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=abera07)](https://github.com/abera07/github-readme-stats)
 <!--
 **abera07/abera07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
