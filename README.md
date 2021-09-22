@@ -1,6 +1,6 @@
 ### Just a glitch in the matrix :v:
 
-![Ankita_kor](https://drive.google.com/file/d/1V9_MIxyS350SPxnbnzAuebZG7WtuJuht/view?usp=sharing)
+![Ankita_kor](https://github.com/abera07/abera07/blob/main/AB_temp_logo.gif?raw=true)
 
 ![Chrome_Dino](chrome_dino.gif)
 
